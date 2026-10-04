@@ -1,0 +1,8 @@
+{
+  "name": "CryptoBank AI Navigator",
+  "description": "Первый финансовый AI-консультант нового поколения от CryptoBank: глубокий анализ рынков, компаний, макроэкономики, рисков и инвестиционных сценариев.\n\nИспользуйте реальные данные из открытых источников и api ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

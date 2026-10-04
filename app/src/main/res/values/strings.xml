@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AI Navigator</string>
+    <string name="app_tagline">Первый финансовый AI-консультант нового поколения</string>
+    <string name="tab_consultant">Навигатор</string>
+    <string name="tab_market">Компас рынков</string>
+    <string name="tab_portfolio">Активы и архив</string>
+    <string name="disclaimer_short">AI-консультант носит образовательный характер и не является индивидуальной инвестиционной рекомендацией.</string>
+</resources>
